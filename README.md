@@ -2,6 +2,8 @@
 
 Descriminator与Generator位于model/
 
+![image-20220517103231976](D:\SelfLean\ImasFace\forgit\README.assets\image-20220517103231976.png)
+
 ### 参考资料
 
 DCGAN TUTORIAL
